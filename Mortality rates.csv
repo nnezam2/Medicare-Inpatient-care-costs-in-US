@@ -1,0 +1,61 @@
+﻿"Title: Number of Deaths per 100,000 Population | The Henry J. Kaiser Family Foundation",,
+Timeframe: 2017,,
+Location,State Acronym,"Death Rate per 100,000"
+United States,,731.9
+Alabama,AL,917.7
+Alaska,AK,708.8
+Arizona,AZ,678.5
+Arkansas,AR,900.1
+California,CA,618.7
+Colorado,CO,663.4
+Connecticut,CT,651.2
+Delaware,DE,749.6
+District of Columbia,DC,725.4
+Florida,FL,672.1
+Georgia,GA,793.7
+Hawaii,HI,584.9
+Idaho,ID,741.8
+Illinois,IL,724.2
+Indiana,IN,848.6
+Iowa,IA,737
+Kansas,KS,771.2
+Kentucky,KY,929.9
+Louisiana,LA,881.1
+Maine,ME,771.6
+Maryland,MD,718.1
+Massachusetts,MA,677.1
+Michigan,MI,783.5
+Minnesota,MN,656.4
+Mississippi,MS,951.3
+Missouri,MO,820.1
+Montana,MT,757.5
+Nebraska,NE,726
+Nevada,NV,765.5
+New Hampshire,NH,717.2
+New Jersey,NJ,667.5
+New Mexico,NM,754.7
+New York,NY,623.6
+North Carolina,NC,785.6
+North Dakota,ND,692.7
+Ohio,OH,849.7
+Oklahoma,OK,902.4
+Oregon,OR,717.2
+Pennsylvania,PA,777.3
+Rhode Island,RI,713.4
+South Carolina,SC,828
+South Dakota,SD,736.6
+Tennessee,TN,897.1
+Texas,TX,735.7
+Utah,UT,700.1
+Vermont,VT,714.9
+Virginia,VA,719.4
+Washington,WA,688.6
+West Virginia,WV,957.1
+Wisconsin,WI,722
+Wyoming,WY,714.5
+,,
+Notes,,
+These figures are age-adjusted to the total U.S. population in 2000. Causes of death include all ICD-10 codes.,,
+,,
+Sources,,
+"Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death 1999-2017 on [CDC WONDER Online Database](http://wonder.cdc.gov/), released 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on February 11, 2019.",,
